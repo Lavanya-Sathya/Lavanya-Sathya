@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Lavanya Sathya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align = "center"><img src = "https://komarev.com/ghpvc/?username=lavanya-sathya&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p>
+<!-- <p align = "center"><img src = "https://komarev.com/ghpvc/?username=lavanya-sathya&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-sathya&" alt="lavanya-sathya" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanya-sathya&show_icons=true&locale=en" alt="lavanya-sathya-stats" height=210px/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanya-sathya&show_icons=true&locale=en&layout=compact" alt="lavanya-sathya-language-used" height=210px />
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanya-sathya&show_icons=true&locale=en" alt="lavanya-sathya-stats" height=200px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanya-sathya&show_icons=true&locale=en&layout=compact" alt="lavanya-sathya-language-used" height=200px />
 </p>
 
 
